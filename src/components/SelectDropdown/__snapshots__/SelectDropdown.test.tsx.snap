@@ -1,0 +1,49 @@
+// Vitest Snapshot v1
+
+exports[`SelectDropdown Component Test > should render SelectDropdown component 1`] = `
+<div>
+  <div
+    class="rs3-flex rs3-gap-3 rs3-items-center rs3-relative rs3-mb-2 select-multiple"
+    style="height: 0px;"
+  >
+    <label
+      class="flex-[1]"
+      for="dropdown"
+    >
+      Label
+    </label>
+    <div
+      class="rs3-relative rs3-flex rs3-flex-col rs3-gap-2 rs3-min-w-72 rs3-min-h-10 rs3-w-full rs3-flex-[6]"
+    >
+      <div
+        class="rs3-absolute rs3-w-full"
+      >
+        <div
+          class="rs3-input-container rs3-border rs3-border-gray-200 rs3-rounded-md rs3-p-1 rs3-cursor-pointer rs3-flex rs3-justify-between rs3-items-center rs3-gap-3 rs3-min-h-10 rs3-bg-white"
+        >
+          <div>
+            <span
+              class="rs3-text-gray-400 rs3-select-none"
+            />
+          </div>
+          <svg
+            class="rs3-size-4"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              class="rs3-text-gray-800"
+              d="m19.5 8.25-7.5 7.5-7.5-7.5"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
