@@ -40,7 +40,7 @@ function App() {
   return (
     <div>
       <h1>React Custom Select3 Example</h1>
-      <SelectDropdown optionLabel="Select" multiple options={options} /> />
+      <SelectDropdown optionLabel="Select" multiple options={options} />
     </div>
   );
 }
