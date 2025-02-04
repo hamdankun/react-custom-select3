@@ -40,7 +40,7 @@ function App() {
   return (
     <div>
       <h1>React Custom Select3 Example</h1>
-      <CustomSelect options={options} />
+      <SelectDropdown options={options} />
     </div>
   );
 }
